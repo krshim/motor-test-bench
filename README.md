@@ -1,6 +1,6 @@
 # Motor Test Bench
 
-MAVLink(pymavlink)를 이용한 드론 모터/ESC 부하 테스트 프로그램입니다.
+PX4 비행 로그(ULog)를 재생하여 실제 모터/ESC 부하를 재현하는 테스트 프로그램입니다.
 
 ## 기능
 1. **Manual Control:** GUI 슬라이더로 모터 출력 제어 및 실시간 데이터 녹화
