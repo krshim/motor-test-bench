@@ -2,4 +2,4 @@ pymavlink
 pyserial
 pandas
 pyulog
-tk
+
